@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bendahmad/youben/static/css/main.e06c0f3f.css",
+    "main.js": "/Bendahmad/youben/static/js/main.88e2fce1.js",
+    "static/media/profile.jpg": "/Bendahmad/youben/static/media/profile.8bf7623abca33c5eb636.jpg",
+    "static/media/me.jpg": "/Bendahmad/youben/static/media/me.47644f926bf69513e1c8.jpg",
+    "static/media/personal_webs.png": "/Bendahmad/youben/static/media/personal_webs.c48b25a807be62104910.png",
+    "static/media/crud.png": "/Bendahmad/youben/static/media/crud.a606c20d6b04d438b64f.png",
+    "static/media/avataaars1.png": "/Bendahmad/youben/static/media/avataaars1.9eac98a2451b218a2344.png",
+    "static/media/avataaars2.png": "/Bendahmad/youben/static/media/avataaars2.f5b9fc36c8645ca8d9fc.png",
+    "static/media/avataaars3.png": "/Bendahmad/youben/static/media/avataaars3.3da801569fc20ab16b7b.png",
+    "index.html": "/Bendahmad/youben/index.html",
+    "main.e06c0f3f.css.map": "/Bendahmad/youben/static/css/main.e06c0f3f.css.map",
+    "main.88e2fce1.js.map": "/Bendahmad/youben/static/js/main.88e2fce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06c0f3f.css",
+    "static/js/main.88e2fce1.js"
+  ]
+}
