@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/youben/static/css/main.263807c6.css",
-    "main.js": "/youben/static/js/main.2dd516f8.js",
-    "static/media/profile.jpg": "/youben/static/media/profile.8bf7623abca33c5eb636.jpg",
+    "main.css": "/youben/static/css/main.4d687ee2.css",
+    "main.js": "/youben/static/js/main.7f6c7016.js",
+    "static/media/profile.jpg": "/youben/static/media/profile.d9194ad138c74fd4beed.jpg",
     "static/media/me.jpg": "/youben/static/media/me.47644f926bf69513e1c8.jpg",
     "static/media/personal_webs.png": "/youben/static/media/personal_webs.c48b25a807be62104910.png",
     "static/media/crud.png": "/youben/static/media/crud.a606c20d6b04d438b64f.png",
@@ -10,11 +10,11 @@
     "static/media/avataaars2.png": "/youben/static/media/avataaars2.f5b9fc36c8645ca8d9fc.png",
     "static/media/avataaars3.png": "/youben/static/media/avataaars3.3da801569fc20ab16b7b.png",
     "index.html": "/youben/index.html",
-    "main.263807c6.css.map": "/youben/static/css/main.263807c6.css.map",
-    "main.2dd516f8.js.map": "/youben/static/js/main.2dd516f8.js.map"
+    "main.4d687ee2.css.map": "/youben/static/css/main.4d687ee2.css.map",
+    "main.7f6c7016.js.map": "/youben/static/js/main.7f6c7016.js.map"
   },
   "entrypoints": [
-    "static/css/main.263807c6.css",
-    "static/js/main.2dd516f8.js"
+    "static/css/main.4d687ee2.css",
+    "static/js/main.7f6c7016.js"
   ]
 }
