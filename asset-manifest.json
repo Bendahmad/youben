@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youben/static/css/main.4d687ee2.css",
-    "main.js": "/youben/static/js/main.61105068.js",
+    "main.js": "/youben/static/js/main.3ae6df6f.js",
     "static/media/profile.jpg": "/youben/static/media/profile.d9194ad138c74fd4beed.jpg",
     "static/media/me.jpg": "/youben/static/media/me.47644f926bf69513e1c8.jpg",
     "static/media/personal_webs.png": "/youben/static/media/personal_webs.c48b25a807be62104910.png",
@@ -11,10 +11,10 @@
     "static/media/avataaars3.png": "/youben/static/media/avataaars3.3da801569fc20ab16b7b.png",
     "index.html": "/youben/index.html",
     "main.4d687ee2.css.map": "/youben/static/css/main.4d687ee2.css.map",
-    "main.61105068.js.map": "/youben/static/js/main.61105068.js.map"
+    "main.3ae6df6f.js.map": "/youben/static/js/main.3ae6df6f.js.map"
   },
   "entrypoints": [
     "static/css/main.4d687ee2.css",
-    "static/js/main.61105068.js"
+    "static/js/main.3ae6df6f.js"
   ]
 }
